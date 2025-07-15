@@ -142,7 +142,7 @@ def retrieve_relevant_chunks(structured_query, index, chunks, metadata, top_k=5)
     return results
 
 # ========== STEP 5: LLM Decision Making ==========
-openai.api_key = "your-api-key-here"  # Replace with your actual API key
+openai.api_key = "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"  # Replace with your actual API key
 
 def generate_decision(query, retrieved_chunks):
     context_text = "\n".join(
