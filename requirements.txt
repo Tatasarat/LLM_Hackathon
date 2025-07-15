@@ -6,14 +6,3 @@ python-docx
 beautifulsoup4
 spacy
 openai
-spacy-transformers
-numpy
-streamlit-aggrid
-streamlit-chat
-streamlit-ace
-streamlit-extras
-streamlit-lottie
-streamlit-plotly-events
-streamlit-pandas-profiling
-streamlit-ace
-streamlit-embeddings
